@@ -18,4 +18,9 @@ public class test {
         boolean isTrue = true;
         System.out.println(isTrue);
     }
+    
+    public static void anotherMethod() {
+        System.out.println("This is another commit");
+        System.out.println("I like this");
+    }
 }
