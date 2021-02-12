@@ -1,7 +1,7 @@
 public class test {
     public static void main(String[] args) {
         System.out.println("Hello from main");
-        int num = 25;
+        int num = 22;
         System.out.println("The value of the num is: " + num);
     }
 
