@@ -3,6 +3,7 @@ public class test {
         System.out.println("Hello from main");
         int num = 22;
         System.out.println("The value of the num is: " + num);
+        newMethod();
     }
 
     public static void testMethod() {
@@ -22,5 +23,11 @@ public class test {
     public static void anotherMethod() {
         System.out.println("This is another commit");
         System.out.println("I like this");
+    }
+
+    public static void newMethod() {
+        System.out.println("Hello there");
+        int num = 34;
+        System.out.println(num);
     }
 }
